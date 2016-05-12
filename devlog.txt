@@ -1,0 +1,15 @@
+Dev log for Kate and Jordan
+
+Pico-8 gaming in Lua.
+
+Day 1: 5/12/16
+- Watched demos
+- Watched example games (called cartridges)
+- Explored Pico8 (found really weird things..)
+- Cartridge = Game
+- Learned a little Spanish (un poco)
+- Learned how to move up, down, left, and right
+- Created a character (sprite)
+- Sprite = character
+- Made some background sprites, haven't used them yet
+
