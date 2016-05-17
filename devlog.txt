@@ -13,3 +13,16 @@ Day 1: 5/12/16
 - Sprite = character
 - Made some background sprites, haven't used them yet
 
+Day 2: 5/16/16
+- Read over example code
+- Understood some of what the terms meant
+- Tried to make a make all types of characters method and a make player method (we had previously just initialized player outside of any methods)
+- Figured out that didn't work and tried to fix it
+(at night): Read tutorials of Lua code and tried to find gravity examples
+
+Day 3: 5/17/16
+- Searched on reddit and twitter pages for Pico8 to find tutorials (was not successful)
+- Made more sprites
+- Read through example code
+- Attempted to animate sprite, made it move but then got it stuck
+- Future Plans: understand the example code and make it animated and invoke gravity somehow..
