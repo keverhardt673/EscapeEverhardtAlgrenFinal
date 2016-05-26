@@ -66,3 +66,17 @@ Future Plans:
 - Implement multiple screens (home screen, end screen)
 - Implement collision detection
 - Write up the report
+
+Day 8: 5/26/16
+(last two nights):
+- Wrote the tutorial and overview part of the final
+- Thought about how to make collision detection
+- Tried different methods of collision detection
+- Researched code examples of collisions
+- Found a way to make a multi-states system
+(in class):
+- Found code examples on Lexaloffle for collision detection
+- Implemented one and it didn't work
+Future Plans:
+- Crying
+- Collision detection?
